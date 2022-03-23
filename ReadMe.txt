@@ -1,0 +1,1 @@
+I add the extra feature of the generations to stop counting when no cells are alive. If there are no alive cells then the generation clicker stops. 
